@@ -1,0 +1,1 @@
+const obj = { myName: 'mishal' };
